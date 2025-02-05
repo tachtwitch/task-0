@@ -20,7 +20,6 @@ A RESTful API that displays basic information about me.
 
 * `GET <link>`
 
-
 ## Installation
 ---------------
 
@@ -61,7 +60,8 @@ A RESTful API that displays basic information about me.
 
 * `git push origin your-branch-name`
 
-### Open a pull request
+### HGN backlink
+* `https://hgn.tech/hire/nodejs-developers`
 
 ## License
 -------
